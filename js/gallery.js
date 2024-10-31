@@ -74,7 +74,7 @@ const galleryMarkup = images
       src="${preview}"
       data-source="${original}"
       alt="${description}"
-      width = "300px"
+      width = "450px"
     />
   </a>
 </li>`;
